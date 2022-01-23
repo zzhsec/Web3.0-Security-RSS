@@ -1,2 +1,10 @@
-# Web3.0-Security-RSS
-Web3.0-Security-RSS: An excellent collection of Web 3.0 security knowledge &amp; Web3.0-Security-RSS: 优质的Web3.0安全知识集合
+# Web3.0 Security RSS
+Introduction: RSS subscriptions related to Web3.0 Security, helping to establish personal intelligence sources and daily knowledge base updates.
+
+## Reeder5 (macOS, iOS)
+
+import OMPL into Reeder: Subcsriptions -> Add subscription -> Import form OPML.
+
+![](usage.png)
+
+*If you have any high-quality website feeds, please submit a PR or issue*
