@@ -8,3 +8,5 @@ import OMPL into Reeder: Subcsriptions -> Add subscription -> Import form OPML.
 ![](usage.png)
 
 *If you have any high-quality website feeds, please submit a PR or issue*
+
+[中文文档](https://github.com/xxxeyJ/Web3.0-Security-RSS/blob/main/README-zh.md)
